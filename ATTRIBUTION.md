@@ -76,3 +76,17 @@ Added by Social 2026-11-02 (same method; contact-sheet screened, 8 kept of 17). 
 | `roof_rat.jpg` | Roof Rat | [obs](https://www.inaturalist.org/observations/103643319) (photo 173514511) | Photo: Laura Mae, CC BY 4.0 |
 | `woodlouse_spider.jpg` | Woodlouse Hunter | [obs](https://www.inaturalist.org/observations/42145762) (photo 66901266) | Photo: Meghan Cassidy, CC BY-SA 4.0 |
 | `yellow_garden_spider.jpg` | Yellow Garden Spider | [obs](https://www.inaturalist.org/observations/308042942) (photo 555702674) | Photo: Michael J. Papay, CC BY 4.0 |
+
+
+Added by Social 2026-11-03 (license_code and attribution read from api.inaturalist.org/v1/observations/<id>, research grade, contact-sheet screened, 8 kept of 40).
+
+| File | Species | Source | Credit line |
+|---|---|---|---|
+| `striped_bark_scorpion.jpg` | Striped Bark Scorpion (Centruroides vittatus) | [obs](https://www.inaturalist.org/observations/93014576) (photo 154096238) | Photo: Meghan Cassidy, CC BY-SA 4.0 |
+| `giant_centipede.jpg` | Giant Desert Centipede (Scolopendra heros) | [obs](https://www.inaturalist.org/observations/247657821) (photo 442348101) | Photo: Reid Hardin, CC BY 4.0 |
+| `texas_brown_tarantula.jpg` | Texas Brown Tarantula (Aphonopelma hentzi) | [obs](https://www.inaturalist.org/observations/101867117) (photo 170175735) | Photo: Loren Cassin Sackett, CC BY 4.0 |
+| `common_house_spider.jpg` | Common House Spider (Parasteatoda tepidariorum) | [obs](https://www.inaturalist.org/observations/4202447) (photo 5008968) | Photo: Erin Lalime, CC BY |
+| `white_footed_mouse.jpg` | White-footed Mouse (Peromyscus leucopus) | [obs](https://www.inaturalist.org/observations/75263338) (photo 123104033) | none (CC0) |
+| `subterranean_termite.jpg` | Eastern Subterranean Termite (Reticulitermes flavipes) | [obs](https://www.inaturalist.org/observations/330632243) (photo 599597197) | Photo: Sam Kieschnick, CC BY 4.0 |
+| `wood_roach.jpg` | Pennsylvania Wood Cockroach (Parcoblatta pennsylvanica) | [obs](https://www.inaturalist.org/observations/35961643) (photo 56777953) | Photo: Robert Webster, CC BY-SA 4.0 |
+| `brownbanded_roach.jpg` | Brown-banded Cockroach (Supella longipalpa) | [obs](https://www.inaturalist.org/observations/9369521) (photo 12722288) | Photo: Thomas Koffel, CC BY |
