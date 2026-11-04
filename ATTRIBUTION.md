@@ -90,3 +90,18 @@ Added by Social 2026-11-03 (license_code and attribution read from api.inaturali
 | `subterranean_termite.jpg` | Eastern Subterranean Termite (Reticulitermes flavipes) | [obs](https://www.inaturalist.org/observations/330632243) (photo 599597197) | Photo: Sam Kieschnick, CC BY 4.0 |
 | `wood_roach.jpg` | Pennsylvania Wood Cockroach (Parcoblatta pennsylvanica) | [obs](https://www.inaturalist.org/observations/35961643) (photo 56777953) | Photo: Robert Webster, CC BY-SA 4.0 |
 | `brownbanded_roach.jpg` | Brown-banded Cockroach (Supella longipalpa) | [obs](https://www.inaturalist.org/observations/9369521) (photo 12722288) | Photo: Thomas Koffel, CC BY |
+
+Added by Social 2026-11-04 (license_code and attribution read from api.inaturalist.org/v1/observations, research grade, place: US, contact-sheet screened, 10 kept of 42; no usable adult stink bug again).
+
+| File | Species | Source | Credit line |
+|---|---|---|---|
+| `chinese_mantis_egg_case.jpg` | Chinese Mantis egg case (Tenodera sinensis) | [obs](https://www.inaturalist.org/observations/9963412) (photo 13684082) | Photo: Katja Schulz, CC BY |
+| `wheel_bug.jpg` | North American Wheel Bug (Arilus cristatus) | [obs](https://www.inaturalist.org/observations/87602602) (photo 144445680) | none (CC0) |
+| `red_headed_ash_borer.jpg` | Red-headed Ash Borer (Neoclytus acuminatus) | [obs](https://www.inaturalist.org/observations/44778346) (photo 70986301) | Photo: Brandon McCracken, CC BY |
+| `red_flour_beetle.jpg` | Red Flour Beetle (Tribolium castaneum) | [obs](https://www.inaturalist.org/observations/51471640) (photo 81781816) | Photo: Victor Engel, CC BY |
+| `odorous_house_ant.jpg` | Odorous House Ant (Tapinoma sessile) | [obs](https://www.inaturalist.org/observations/378984470) (photo 693195399) | none (CC0) |
+| `kudzu_bug.jpg` | Kudzu Bug (Megacopta cribraria) | [obs](https://www.inaturalist.org/observations/233412262) (photo 414814997) | Photo: npezz, CC BY |
+| `leaffooted_bug.jpg` | Eastern Leaf-footed Bug (Leptoglossus phyllopus) | [obs](https://www.inaturalist.org/observations/149256403) (photo 257165118) | none (CC0) |
+| `puss_caterpillar.jpg` | Puss caterpillar / Southern Flannel Moth (Megalopyge opercularis) | [obs](https://www.inaturalist.org/observations/141628185) (photo 242668076) | none (CC0) |
+| `larder_beetle.jpg` | Larder Beetle (Dermestes lardarius) | [obs](https://www.inaturalist.org/observations/76795736) (photo 125601570) | none (CC0) |
+| `dark_fishing_spider.jpg` | Dark Fishing Spider (Dolomedes tenebrosus) | [obs](https://www.inaturalist.org/observations/207883950) (photo 367761982) | Photo: Meghan Cassidy, CC BY-SA 4.0 |
