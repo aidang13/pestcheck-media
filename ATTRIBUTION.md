@@ -105,3 +105,13 @@ Added by Social 2026-11-04 (license_code and attribution read from api.inaturali
 | `puss_caterpillar.jpg` | Puss caterpillar / Southern Flannel Moth (Megalopyge opercularis) | [obs](https://www.inaturalist.org/observations/141628185) (photo 242668076) | none (CC0) |
 | `larder_beetle.jpg` | Larder Beetle (Dermestes lardarius) | [obs](https://www.inaturalist.org/observations/76795736) (photo 125601570) | none (CC0) |
 | `dark_fishing_spider.jpg` | Dark Fishing Spider (Dolomedes tenebrosus) | [obs](https://www.inaturalist.org/observations/207883950) (photo 367761982) | Photo: Meghan Cassidy, CC BY-SA 4.0 |
+| `velvet_ant.jpg` | Velvet Ant / Cow Killer (Dasymutilla occidentalis) | [obs](https://www.inaturalist.org/observations/7957730) (photo 10513401) | Photo: Judy Gallagher, CC BY-SA |
+| `hercules_beetle.jpg` | Eastern Hercules Beetle (Dynastes tityus) | [obs](https://www.inaturalist.org/observations/49894243) (photo 79217828) | Photo: Stosh Morency, CC BY |
+| `giant_water_bug.jpg` | Giant Water Bug (Lethocerus americanus) | [obs](https://www.inaturalist.org/observations/58507642) (photo 93416466) | none (CC0) |
+| `banded_garden_spider.jpg` | Banded Garden Spider (Argiope trifasciata) | [obs](https://www.inaturalist.org/observations/185198193) (photo 323403890) | Photo: Nick Chirico, CC BY |
+| `tobacco_hornworm.jpg` | Tobacco Hornworm caterpillar (Manduca sexta) | [obs](https://www.inaturalist.org/observations/209566454) (photo 370828290) | none (CC0) |
+| `opossum.jpg` | Virginia Opossum (Didelphis virginiana) | [obs](https://www.inaturalist.org/observations/2007070) (photo 2443002) | none (CC0) |
+| `pine_sawyer.jpg` | Carolina Pine Sawyer (Monochamus carolinensis) | [obs](https://www.inaturalist.org/observations/37567066) (photo 59578755) | Photo: brendanboyd, CC BY |
+| `io_moth.jpg` | Io Moth, adult (Automeris io) | [obs](https://www.inaturalist.org/observations/28369492) (photo 44218494) | Photo: Trevor Edmonson, CC BY |
+| `mole_cricket.jpg` | Southern Mole Cricket (Neoscapteriscus borellii) | [obs](https://www.inaturalist.org/observations/182752967) (photo 318702423) | none (CC0) |
+| `asian_lady_beetle_larva.jpg` | Asian Lady Beetle larva (Harmonia axyridis) | [obs](https://www.inaturalist.org/observations/11414127) (photo 16275364) | Photo: Meghan Cassidy, CC BY-SA |
